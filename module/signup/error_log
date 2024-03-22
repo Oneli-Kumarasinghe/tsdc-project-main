@@ -1,0 +1,11 @@
+[21-Mar-2024 16:06:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tsdclk/test.tsdc.lk/db/signup/signup_fun.php:23
+Stack trace:
+#0 /home/tsdclk/test.tsdc.lk/module/signup/signup.php(14): signup->userSignup('hasanka', '0778585973', '972691780v', 'hasa@gmail.com', '1', 'Test', 'abc123')
+#1 {main}
+  thrown in /home/tsdclk/test.tsdc.lk/db/signup/signup_fun.php on line 23
+[21-Mar-2024 16:09:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/tsdclk/test.tsdc.lk/db/signup/signup_fun.php:23
+Stack trace:
+#0 /home/tsdclk/test.tsdc.lk/module/signup/signup.php(14): signup->userSignup('kjsn', '07851254', 'kjndhuisd7', 'jsba@ksuhvd.com', '1', 'lkdj', 'abc123')
+#1 {main}
+  thrown in /home/tsdclk/test.tsdc.lk/db/signup/signup_fun.php on line 23
+[22-Mar-2024 09:15:16 UTC] PHP Notice:  Undefined variable: student_query in /home/tsdclk/test.tsdc.lk/db/signup/signup_fun.php on line 39

@@ -1,0 +1,40 @@
+[21-Mar-2024 06:44:47 UTC] PHP Notice:  Undefined variable: con in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 06:44:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 06:46:09 UTC] PHP Notice:  Undefined variable: con in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 06:46:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 06:46:26 UTC] PHP Notice:  Undefined variable: con in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 06:46:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 06:47:09 UTC] PHP Notice:  Undefined variable: con in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 06:47:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 06:47:11 UTC] PHP Notice:  Undefined variable: con in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 06:47:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 06:47:49 UTC] PHP Notice:  Undefined variable: con in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 06:47:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 06:48:32 UTC] PHP Notice:  Undefined variable: con in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 06:48:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 06:49:28 UTC] PHP Notice:  Undefined variable: con in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 06:49:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 06:50:23 UTC] PHP Notice:  Undefined variable: con in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 06:50:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 06:54:46 UTC] PHP Notice:  Undefined variable: con in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 06:54:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 06:55:39 UTC] PHP Notice:  Undefined variable: con in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 06:55:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 06:57:04 UTC] PHP Notice:  Undefined variable: con in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 06:57:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 06:57:29 UTC] PHP Notice:  Undefined variable: con in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 06:57:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 06:58:00 UTC] PHP Notice:  Undefined variable: con in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 06:58:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 18:34:24 UTC] PHP Notice:  Undefined variable: con in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 18:34:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 19:28:58 UTC] PHP Notice:  Undefined variable: con in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 19:28:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 20:11:38 UTC] PHP Notice:  Undefined variable: con in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[21-Mar-2024 20:11:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[22-Mar-2024 02:09:42 UTC] PHP Notice:  Undefined variable: con in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[22-Mar-2024 02:09:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[22-Mar-2024 05:27:26 UTC] PHP Notice:  Undefined variable: con in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[22-Mar-2024 05:27:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[22-Mar-2024 09:04:52 UTC] PHP Notice:  Undefined variable: con in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
+[22-Mar-2024 09:04:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tsdclk/test.tsdc.lk/db/index/index_load.php on line 28
