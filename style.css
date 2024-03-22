@@ -4046,15 +4046,22 @@ body {
   padding-bottom: 20px;
   text-transform: capitalize;
   position: relative;
+  
+}
+.About{
+  text-align:center; 
+  font-size:27px;
+  margin-bottom :10px;
 }
 .footer .single-footer h2::before {
   position: absolute;
-  content: "";
-  left: 0;
+  content:"";
+  align-content: center;
   bottom: 0px;
   height: 3px;
-  width: 50px;
+  width: 90px;
   background: #fff;
+  
 }
 .footer .single-footer .time-sidual {
   margin-top: 15px;

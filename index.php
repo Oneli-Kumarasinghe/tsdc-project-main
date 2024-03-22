@@ -451,15 +451,11 @@
 		<div class="footer-top">
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-3 col-md-6 col-12">
+					<div class="col-lg-12 col-md-12 col-12">
 						<div class="single-footer">
-							<h2>About Us</h2>
-							<p>Welcome to the Telecom Skill Development Centre, where excellence meets expertise! 
-                With a legacy of over 20 years in the Local and Overseas Telecommunication industry, 
-                our seasoned industry experts bring a wealth of knowledge and hands-on experience to empower individuals like you. Our distinguished trainers, 
-                affiliated with IOSH, 
-                NBCD accredited Fire trainers, 
-                and Professional First Aid trainers, are committed to delivering top-notch programs.</p>
+							<h2 style="text-align:center;">About Us</h2>
+							<!--p class ="About"><B>About Us</p>-->
+							<p style="text-align:center;">Welcome to the Telecom Skill Development Centre, where excellence meets expertise! With a legacy of over 20 years in the Local and Overseas Telecommunication industry, our seasoned industry experts bring a wealth of knowledge and hands-on experience to empower individuals like you. Our distinguished trainers, affiliated with IOSH, NBCD accredited Fire trainers, and Professional First Aid trainers, are committed to delivering top-notch programs.</p>
                 <!-- Social -->
 							<ul class="social">
 								<li><a href="#"><i class="icofont-facebook"></i></a></li>
